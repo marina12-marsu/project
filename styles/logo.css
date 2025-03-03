@@ -1,0 +1,15 @@
+.logo {
+    font-size: 40px;
+    font-weight: 70px;
+    line-height: 1.2;
+    color: #ffffff;
+    text-decoration: none;
+    margin: 40px;
+}
+html {
+    background-image: url(https://elsu.ru/uploads/posts/2022-06/1654867493_1ii.jpg);
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+  }
