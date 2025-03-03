@@ -1,4 +1,2 @@
-img{
-    width: 100px;
-    height: 200px;
-    }
+@import "fons.css";
+@import "conteiner.css";
